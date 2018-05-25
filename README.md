@@ -82,6 +82,7 @@ More info [here](http://radare.re/).
 
 ## Tutorials and Blogs
 
+- [Linux Malware by @MalwareMustDie](https://imgur.com/r/LinuxMalware)
 - [Radare2 - Using Emulation To Unpack Metasploit Encoders](https://blog.xpnsec.com/radare2-using-emulation-to-unpack-metasploit-encoders/) - by @_xpn_
 - [Reverse engineering a Gameboy ROM with radare2](https://www.megabeets.net/reverse-engineering-a-gameboy-rom-with-radare2/) - by @megabeets_
 - [radare2 as an alternative to gdb-peda](https://monosource.github.io/2016/10/26/radare2-peda/)
