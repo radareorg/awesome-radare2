@@ -16,7 +16,7 @@ Radare is a portable reversing framework that can...
 - Use powerful analysis capabilities to speed up reversing
 - Aid in software exploitation
 
-More info [here](http://radare.re/).
+More info [here](http://rada.re/).
 
 ### Table of Contents
 
