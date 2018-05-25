@@ -143,6 +143,8 @@ More info [here](http://radare.re/).
 
 ## Scripts
 
+- [helper radare2 script to analyze UEFI firmware modules](https://github.com/mytbk/radare-uefi)
+- [ThinkPwn Scanner](https://github.com/Cr4sh/ThinkPwn/blob/master/scan_thinkpwn.py) - by @d_olex and @trufae
 - [radare2-lldb integration](https://github.com/nowsecure/r2lldb)
 - [create a YARA signature for the bytes of the current function](https://gist.github.com/cmatthewbrooks/ea38729ec5f69c8c7c966d3e37016020)
 - [A radare2 Plugin to perform symbolic execution with a simple macro call (r2 + angr)](https://github.com/gast04/r4ge)
