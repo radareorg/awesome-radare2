@@ -164,4 +164,4 @@ More info [here](http://rada.re/).
 
 ## Contributing
 
-[Please refer the guidelines at contributing.md for details](Contributing.md).
+[Please refer the guidelines at contributing.md for details](CONTRIBUTING.md).
