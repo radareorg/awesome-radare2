@@ -101,7 +101,7 @@ More info [here](http://rada.re/).
 - [Crackme0x03 Dissected with Radare2](https://moveax.me/crackme0x03/)
 - [Crackme0x02 Dissected with Radare2](https://moveax.me/crackme0x02/)
 - [Crackme0x01 Dissected with Radare2](https://moveax.me/crackme0x01/)
-- [Debugging Using Radare2… and Windows!](https://medium.com/@jacob16682/debugging-using-radare2-and-windows-5e58677bf943) - by @jacob16682
+- [Debugging Using Radare2… and Windows!](https://goggleheadedhacker.com/blog/post/5) - by @jacob16682
 - [Decrypting APT33’s Dropshot Malware with Radare2 and Cutter – Part 1](https://www.megabeets.net/decrypting-dropshot-with-radare2-and-cutter-part-1/) - by @megabeets_
 - [A journey into Radare 2 – Part 2: Exploitation](https://www.megabeets.net/a-journey-into-radare-2-part-2/) - by @megabeets_
 - [A journey into Radare 2 – Part 1: Simple crackme](https://www.megabeets.net/a-journey-into-radare-2-part-1/) - by @megabeets_
