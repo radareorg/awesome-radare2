@@ -142,6 +142,7 @@ More info [here](http://rada.re/).
 - [rarop - graphical ROP chain builder using radare2 and r2pipe](https://github.com/jpenalbae/rarop)
 - [Radare2 and Frida better together](https://github.com/nowsecure/r2frida)
 - [Android APK analyzer based on radare2](https://github.com/mhelwig/apk-anal)
+- [Cutter - A Qt and C++ GUI for radare2](https://github.com/radareorg/cutter)
 
 ## Scripts
 
