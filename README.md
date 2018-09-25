@@ -41,6 +41,7 @@ More info [here](http://rada.re/).
 - [R2 "Book"](https://legacy.gitbook.com/book/radare/radare2book/details)
 - [Radare2 Explorations](https://legacy.gitbook.com/book/monosource/radare2-explorations/details)
 - [Radare2 wiki](http://r2wiki.readthedocs.io/en/latest/)
+- [Binary Analysis Course](https://maxkersten.nl/binary-analysis-course/)
 
 ## Videos
 
@@ -53,6 +54,7 @@ More info [here](http://rada.re/).
 - [Introduction To Reverse Engineering With Radare2](https://www.youtube.com/watch?v=LAkYW5ixvhg)
 - [Scripting radare2 with python for dynamic analysis - TUMCTF 2016 Zwiebel part 2](https://www.youtube.com/watch?v=y69uIxU0eI8)
 - [Solving a Crackme with Cutter and Z3](https://www.youtube.com/watch?v=oNGLIkSUgQo)
+- [Handling self modifying code (SMC) with radare2](https://www.youtube.com/watch?v=BBWtpBZVJvQ)
 
 ### Asciinemas
 
@@ -60,6 +62,8 @@ More info [here](http://rada.re/).
 - [ESIL for Windows programm (IOLI-crackme 0x02)](https://asciinema.org/a/42850)
 - [Filter for string's searching (urls, emails)](https://asciinema.org/a/b429iwj4cx5ixpba4l01qxzmk)
 - [Manual unpacking UPX on linux 64-bit](https://asciinema.org/a/bei8od5pxnihypp0j91o4ukj0)
+- [radare2 classes recovery from rtti itanium](https://asciinema.org/a/201053)
+- [example of finding ROP gadgets in dyld library cache](https://asciinema.org/a/IVqUALBLZOxkZu3agxkRydlSn)
 
 ### Conferences
 
@@ -113,6 +117,7 @@ More info [here](http://rada.re/).
 - [Crackme0x01 Dissected with Radare2](https://moveax.me/crackme0x01/)
 - [Debugging Using Radare2… and Windows!](https://goggleheadedhacker.com/blog/post/5) - by @jacob16682
 - [Decrypting APT33’s Dropshot Malware with Radare2 and Cutter – Part 1](https://www.megabeets.net/decrypting-dropshot-with-radare2-and-cutter-part-1/) - by @megabeets_
+- [Decrypting APT33’s Dropshot Malware with Radare2 and Cutter – Part 2](https://www.megabeets.net/decrypting-dropshot-with-radare2-and-cutter-part-2/) - by @megabeets_
 - [A journey into Radare 2 – Part 2: Exploitation](https://www.megabeets.net/a-journey-into-radare-2-part-2/) - by @megabeets_
 - [A journey into Radare 2 – Part 1: Simple crackme](https://www.megabeets.net/a-journey-into-radare-2-part-1/) - by @megabeets_
 - [Reverse Engineering With Radare2](https://insinuator.net/tag/radare2/) - by @insinuator
@@ -143,6 +148,19 @@ More info [here](http://rada.re/).
 - [Writing A Malware Config Parser Using Radare2 And Ruby](https://boozallenmts.com/resources/news/writing-malware-config-parser-using-radare2-and-ruby)
 - [Hackaday Superconference Badge Hacking](https://citizengadget.com/post/167530351112/hackaday-superconference-badge-hacking)
 - [OnePlus Device Root Exploit: Backdoor in EngineerMode App for Diagnostics Mode](https://www.nowsecure.com/blog/2017/11/14/oneplus-device-root-exploit-backdoor-engineermode-app-diagnostics-mode/)
+- [GSoC 2018 Final: Debugging and Emulation Support for Cutter](http://radare.today/posts/cutter_debug/)
+- [GSoC 2018 Final: Console Interface Improvementes](http://radare.today/posts/cli_improvements/)
+- [GSoC 2018 Radeco Pseudo C Code Generation](http://radare.today/posts/gsoc_2018_radeco_pseudo_c_code_generation/)
+- [GSoC'18 Final: Type inference](http://radare.today/posts/type_inference/)
+- [Easy way for analyzing the GootKit banking malware with radare2](http://reversingminds-blog.logdown.com/posts/7369479where) - by @D00RT
+- [Decrypting Mirai Configuration With Radare2 (Part 1)](http://www.mien.in/2018/09/03/decrypting-mirai-configuration-with-radare2-part-1/)
+- [Decrypting Mirai Configuration With Radare2 (Part 2)](http://www.mien.in/2018/09/15/decrypting-mirai-configuration-with-radare2-part-2/)
+- [Reversing Bushido IOT Botnet by ZullSec](http://www.mien.in/2018/09/02/reversing-bushido-iot-botnet-by-zullsec/)
+- [Emulating Decryption Function With Radare2](http://www.mien.in/2018/08/15/emulating-decryption-function-with-radare2/)
+- [Automating RE Using r2pipe](https://goggleheadedhacker.com/blog/post/8)
+- [Unstacking Strings with Cutter and Radare2](https://securitykitten.github.io/2018/07/06/unstacking-strings-with-cutter-and-radare2.html)
+- [English Report of "FHAPPI Campaign" : FreeHosting APT PowerSploit Poison Ivy](http://blog.0day.jp/p/english-report-of-fhappi-freehosting.html)
+- [Binary patching and intro to assembly with r2](https://www.leungs.xyz/reversing/2018/06/18/radare2-binary-patching-introduction.html)
 
 ## CTF Writeups
 - [Reversing MalwareTech challenge with Radare2 and inline assembly](https://prsecurity.org/reversing-malwaretech-challange-with-radare2-and-inline-assembly/)
@@ -159,6 +177,7 @@ More info [here](http://rada.re/).
 - [Gynvael - Mission 22 - Solution](https://ctfs.ghost.io/gynvael-mission-22-solution/)
 - [Xiomara CTF 2018 - Slammer](https://jbzteam.github.io/xiomaractf2018/Slammer)
 - [mrmcd ctf 2017 - once_upon_a_time](https://github.com/chrysh/ctf_writeups/tree/master/mrmcd_ctf_2017/once_upon_a_time)
+- [Pinky's Palace siege](https://capsop.com/itsec/english/ctf/vulnhub/2018/09/17/Pinkys-Palace-siege.html)
 
 ## Tools
 
@@ -171,6 +190,10 @@ More info [here](http://rada.re/).
 - [Fuzzing tool (TFuzz): a fuzzing tool based on program transformation](https://github.com/HexHive/T-Fuzz)
 - [Radare2 VMI IO and debugger plugins](https://github.com/Wenzel/r2vmi)
 - [Radare2 module for Yara](https://r2yara.readthedocs.io/en/latest/)
+- [predator - genetic Algorithm in C++ to evolve assembly opcodes to harm the linux system in order to identify red flags or vulnerabilities](https://github.com/sha0coder/predator)
+- [radare2 + miasm2](https://github.com/guedou/r2m2)
+- [Use angr inside the radare2 debugger. Create an angr state from the current debugger state.](https://github.com/andreafioraldi/r2angrdbg)
+- [Bootloader research tools (very much a work in progress)](https://github.com/bx/bootloader_instrumentation_suite)
 
 ## Scripts
 
@@ -196,6 +219,7 @@ More info [here](http://rada.re/).
 - [Baleful CTF task plugins](https://github.com/radare/radare2-extras/tree/master/baleful)
 - [Integration of pwntools and radare2](https://bannsecurity.com/index.php/tutorials/48-integration-of-pwntools-and-radare2)
 - [r2scapy - a radare2 plugin that decodes packets with Scapy](https://github.com/guedou/r2scapy) - by @guedou
+- [Deobfuscation of API calls in Bitpaymer (v2)](https://github.com/mauronz/malware_analysis/blob/master/deobf_bitpaymer_cutter.py)
 
 ## Contributing
 
