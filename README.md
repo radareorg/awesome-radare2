@@ -162,6 +162,7 @@ More info [here](http://rada.re/).
 - [English Report of "FHAPPI Campaign" : FreeHosting APT PowerSploit Poison Ivy](http://blog.0day.jp/p/english-report-of-fhappi-freehosting.html)
 - [Binary patching and intro to assembly with r2](https://www.leungs.xyz/reversing/2018/06/18/radare2-binary-patching-introduction.html)
 - [Ground Zero: Part 3-2 – Reverse Engineering – Patching Binaries with Radare2 – ARM64](https://scriptdotsh.com/index.php/2018/08/13/reverse-engineering-patching-binaries-with-radare2-arm-aarch64/)
+- [How to run HelloWorld in radare2 (installed from a snap package)](https://blog.simos.info/how-to-run-helloworld-in-radare2-installed-from-a-snap-package/)
 
 ## CTF Writeups
 - [Reversing MalwareTech challenge with Radare2 and inline assembly](https://prsecurity.org/reversing-malwaretech-challange-with-radare2-and-inline-assembly/)
