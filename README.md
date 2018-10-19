@@ -55,6 +55,9 @@ More info [here](http://rada.re/).
 - [Scripting radare2 with python for dynamic analysis - TUMCTF 2016 Zwiebel part 2](https://www.youtube.com/watch?v=y69uIxU0eI8)
 - [Solving a Crackme with Cutter and Z3](https://www.youtube.com/watch?v=oNGLIkSUgQo)
 - [Handling self modifying code (SMC) with radare2](https://www.youtube.com/watch?v=BBWtpBZVJvQ)
+- [Introduction to r2dec](https://www.youtube.com/watch?v=zc8AC5LWvOU)
+- [radare2 explained - write over](https://www.youtube.com/watch?v=8GsiQWVlyLg)
+- [radare2 explained - Text transformations](https://www.youtube.com/watch?v=pkUw4oX96Fw)
 
 ### Asciinemas
 
