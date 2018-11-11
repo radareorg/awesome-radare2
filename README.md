@@ -70,6 +70,7 @@ More info [here](http://rada.re/).
 
 ### Conferences
 
+- [r2con 2018](https://www.youtube.com/watch?v=hzz0qTIynPI&list=PLjIhlLNy_Y9Po69BDCTEnrKvwLneSkG26)
 - [r2con 2017](https://www.youtube.com/watch?v=URyd4bcV-Ik&list=PLjIhlLNy_Y9Oe-nfcPEpaki0_En5dhQ5S)
 - [LinuxDays 2017 - Disassembling with radare2](https://www.youtube.com/watch?v=zhQ1GhlgCMY)
 - [SUE 2017 - Reverse Engineering Embedded ARM Devices](https://www.youtube.com/watch?v=oXSx0Qo2Upk)
