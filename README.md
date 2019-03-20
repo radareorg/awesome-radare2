@@ -166,6 +166,12 @@ More info [here](http://rada.re/).
 - [English Report of "FHAPPI Campaign" : FreeHosting APT PowerSploit Poison Ivy](http://blog.0day.jp/p/english-report-of-fhappi-freehosting.html)
 - [Binary patching and intro to assembly with r2](https://www.leungs.xyz/reversing/2018/06/18/radare2-binary-patching-introduction.html)
 - [Ground Zero: Part 3-2 – Reverse Engineering – Patching Binaries with Radare2 – ARM64](https://scriptdotsh.com/index.php/2018/08/13/reverse-engineering-patching-binaries-with-radare2-arm-aarch64/)
+- [Intro to radare2 for malware analysi](https://malwology.com/2018/11/30/intro-to-radare2-for-malware-analysis/) - by @asoni
+- [Intro to cutter for malware analysis](https://malwology.com/2019/03/14/intro-to-cutter-for-malware-analysis/) - by @asoni
+- [Binary Analysis with Jupyter and Radare2](https://isc.sans.edu/forums/diary/Binary+Analysis+with+Jupyter+and+Radare2/24748/)
+- [[EN] Down the Rabbit Hole - Part II: Analyzing an EFI Application with Radare2](https://erfur.github.io/down_the_rabbit_hole_pt2/) - by @ihavelotsofspac
+- [Reversing C code in x64 systems with Radare2 part I](http://ly0n.me/2019/01/10/reversing-c-code-in-x64-systems-with-radare2-part-i/)
+- [Reversing x64 linux code with Radare2 part II](http://ly0n.me/2019/01/14/reversing-x64-linux-code-with-radare2-part-ii/)
 
 ## CTF Writeups
 - [Reversing MalwareTech challenge with Radare2 and inline assembly](https://prsecurity.org/reversing-malwaretech-challange-with-radare2-and-inline-assembly/)
@@ -183,6 +189,9 @@ More info [here](http://rada.re/).
 - [Xiomara CTF 2018 - Slammer](https://jbzteam.github.io/xiomaractf2018/Slammer)
 - [mrmcd ctf 2017 - once_upon_a_time](https://github.com/chrysh/ctf_writeups/tree/master/mrmcd_ctf_2017/once_upon_a_time)
 - [Pinky's Palace siege](https://capsop.com/itsec/english/ctf/vulnhub/2018/09/17/Pinkys-Palace-siege.html)
+- [Introduction to Reverse Engineering with radare2 Cutter - Part I](https://www.jamieweb.net/blog/radare2-cutter-part-1-key-terminology-and-overview/)
+- [Introduction to Reverse Engineering with radare2 Cutter - Part II](https://www.jamieweb.net/blog/radare2-cutter-part-2-analysing-a-basic-program/)
+- [Introduction to Reverse Engineering with radare2 Cutter - Part III](https://www.jamieweb.net/blog/radare2-cutter-part-3-solving-a-crackme-challenge/)
 
 ## Tools
 
@@ -190,6 +199,7 @@ More info [here](http://rada.re/).
 - [Malfunction - Malware Analysis Tool using Function Level Fuzzy Hashing](https://github.com/Dynetics/Malfunction)
 - [rarop - graphical ROP chain builder using radare2 and r2pipe](https://github.com/jpenalbae/rarop)
 - [Radare2 and Frida better together](https://github.com/nowsecure/r2frida)
+- [r2frida wiki](https://github.com/enovella/r2frida-wiki)
 - [Android APK analyzer based on radare2](https://github.com/mhelwig/apk-anal)
 - [Cutter - A Qt and C++ GUI for radare2](https://github.com/radareorg/cutter)
 - [Fuzzing tool (TFuzz): a fuzzing tool based on program transformation](https://github.com/HexHive/T-Fuzz)
@@ -225,6 +235,7 @@ More info [here](http://rada.re/).
 - [Integration of pwntools and radare2](https://bannsecurity.com/index.php/tutorials/48-integration-of-pwntools-and-radare2)
 - [r2scapy - a radare2 plugin that decodes packets with Scapy](https://github.com/guedou/r2scapy) - by @guedou
 - [Deobfuscation of API calls in Bitpaymer (v2)](https://github.com/mauronz/malware_analysis/blob/master/deobf_bitpaymer_cutter.py)
+- [Prints agx (cross reference graph) with 2 caller levels](https://github.com/apasamar/radare_stuff/blob/master/agx_depth.py)
 
 ## Contributing
 
