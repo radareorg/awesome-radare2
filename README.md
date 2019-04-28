@@ -170,8 +170,11 @@ More info [here](http://rada.re/).
 - [Intro to cutter for malware analysis](https://malwology.com/2019/03/14/intro-to-cutter-for-malware-analysis/) - by @asoni
 - [Binary Analysis with Jupyter and Radare2](https://isc.sans.edu/forums/diary/Binary+Analysis+with+Jupyter+and+Radare2/24748/)
 - [[EN] Down the Rabbit Hole - Part II: Analyzing an EFI Application with Radare2](https://erfur.github.io/down_the_rabbit_hole_pt2/) - by @ihavelotsofspac
+- [[EN] Down the Rabbit Hole - Part III: Patching the Whitelist](https://erfur.github.io/down_the_rabbit_hole_pt3/) - by @ihavelotsofspac
 - [Reversing C code in x64 systems with Radare2 part I](http://ly0n.me/2019/01/10/reversing-c-code-in-x64-systems-with-radare2-part-i/)
 - [Reversing x64 linux code with Radare2 part II](http://ly0n.me/2019/01/14/reversing-x64-linux-code-with-radare2-part-ii/)
+- [Deobfuscating APT32 Flow Graphs with Cutter and Radare2](https://research.checkpoint.com/deobfuscating-apt32-flow-graphs-with-cutter-and-radare2/)
+- [Intro to Reversing iOS Swift Apps with radare2](https://grepharder.github.io/blog/0x01_intro_to_reversing_ios_swift_apps_with_radare2.html)
 
 ## CTF Writeups
 - [Reversing MalwareTech challenge with Radare2 and inline assembly](https://prsecurity.org/reversing-malwaretech-challange-with-radare2-and-inline-assembly/)
@@ -209,6 +212,7 @@ More info [here](http://rada.re/).
 - [radare2 + miasm2](https://github.com/guedou/r2m2)
 - [Use angr inside the radare2 debugger. Create an angr state from the current debugger state.](https://github.com/andreafioraldi/r2angrdbg)
 - [Bootloader research tools (very much a work in progress)](https://github.com/bx/bootloader_instrumentation_suite)
+- [ICSREF: ICS Reverse Engineering Framework](https://github.com/momalab/ICSREF)
 
 ## Scripts
 
