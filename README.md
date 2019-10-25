@@ -58,6 +58,7 @@ More info [here](http://rada.re/).
 - [Introduction to r2dec](https://www.youtube.com/watch?v=zc8AC5LWvOU)
 - [radare2 explained - write over](https://www.youtube.com/watch?v=8GsiQWVlyLg)
 - [radare2 explained - Text transformations](https://www.youtube.com/watch?v=pkUw4oX96Fw)
+- [Solving "Dialtone" from Google CTF 2019 Quals using Cutter](https://www.youtube.com/watch?v=B3kz_yzNjEw)
 
 ### Asciinemas
 
@@ -70,6 +71,7 @@ More info [here](http://rada.re/).
 
 ### Conferences
 
+- [r2con 2019 - videos](https://www.youtube.com/watch?v=yTXNTRV3KbQ&list=PLjIhlLNy_Y9OVAEI5KYs_4jSStmTy-24l), [r2con 2019 - materials](https://github.com/radareorg/r2con2019)
 - [r2con 2018](https://www.youtube.com/watch?v=hzz0qTIynPI&list=PLjIhlLNy_Y9Po69BDCTEnrKvwLneSkG26)
 - [r2con 2017](https://www.youtube.com/watch?v=URyd4bcV-Ik&list=PLjIhlLNy_Y9Oe-nfcPEpaki0_En5dhQ5S)
 - [LinuxDays 2017 - Disassembling with radare2](https://www.youtube.com/watch?v=zhQ1GhlgCMY)
@@ -169,12 +171,14 @@ More info [here](http://rada.re/).
 - [Intro to radare2 for malware analysi](https://malwology.com/2018/11/30/intro-to-radare2-for-malware-analysis/) - by @asoni
 - [Intro to cutter for malware analysis](https://malwology.com/2019/03/14/intro-to-cutter-for-malware-analysis/) - by @asoni
 - [Binary Analysis with Jupyter and Radare2](https://isc.sans.edu/forums/diary/Binary+Analysis+with+Jupyter+and+Radare2/24748/)
-- [[EN] Down the Rabbit Hole - Part II: Analyzing an EFI Application with Radare2](https://erfur.github.io/down_the_rabbit_hole_pt2/) - by @ihavelotsofspac
-- [[EN] Down the Rabbit Hole - Part III: Patching the Whitelist](https://erfur.github.io/down_the_rabbit_hole_pt3/) - by @ihavelotsofspac
+- [Down the Rabbit Hole - Part II: Analyzing an EFI Application with Radare2](https://erfur.github.io/down_the_rabbit_hole_pt2/) - by @ihavelotsofspac
+- [Down the Rabbit Hole - Part III: Patching the Whitelist](https://erfur.github.io/down_the_rabbit_hole_pt3/) - by @ihavelotsofspac
 - [Reversing C code in x64 systems with Radare2 part I](http://ly0n.me/2019/01/10/reversing-c-code-in-x64-systems-with-radare2-part-i/)
 - [Reversing x64 linux code with Radare2 part II](http://ly0n.me/2019/01/14/reversing-x64-linux-code-with-radare2-part-ii/)
 - [Deobfuscating APT32 Flow Graphs with Cutter and Radare2](https://research.checkpoint.com/deobfuscating-apt32-flow-graphs-with-cutter-and-radare2/)
 - [Intro to Reversing iOS Swift Apps with radare2](https://grepharder.github.io/blog/0x01_intro_to_reversing_ios_swift_apps_with_radare2.html)
+- [MMD-0064-2019 - Linux/AirDropBot](https://blog.malwaremustdie.org/2019/09/mmd-0064-2019-linuxairdropbot.html)
+- [Dynamic Instrumentation: Frida And r2frida For Noobs](https://bananamafia.dev/post/r2frida-1/)
 
 ## CTF Writeups
 - [Reversing MalwareTech challenge with Radare2 and inline assembly](https://prsecurity.org/reversing-malwaretech-challange-with-radare2-and-inline-assembly/)
@@ -195,6 +199,7 @@ More info [here](http://rada.re/).
 - [Introduction to Reverse Engineering with radare2 Cutter - Part I](https://www.jamieweb.net/blog/radare2-cutter-part-1-key-terminology-and-overview/)
 - [Introduction to Reverse Engineering with radare2 Cutter - Part II](https://www.jamieweb.net/blog/radare2-cutter-part-2-analysing-a-basic-program/)
 - [Introduction to Reverse Engineering with radare2 Cutter - Part III](https://www.jamieweb.net/blog/radare2-cutter-part-3-solving-a-crackme-challenge/)
+- [Android OWASP crackmes: Write-up UnCrackable Level 2](https://enovella.github.io/android/reverse/2017/05/20/android-owasp-crackmes-level-2.html)
 
 ## Tools
 
@@ -213,6 +218,8 @@ More info [here](http://rada.re/).
 - [Use angr inside the radare2 debugger. Create an angr state from the current debugger state.](https://github.com/andreafioraldi/r2angrdbg)
 - [Bootloader research tools (very much a work in progress)](https://github.com/bx/bootloader_instrumentation_suite)
 - [ICSREF: ICS Reverse Engineering Framework](https://github.com/momalab/ICSREF)
+- [Extract labels from IDA .lst or Ghidra .csv file and export x64dbg database. Supporting radare2](https://github.com/utkonos/lst2x64dbg)
+- [Deep ghidra decompiler integration for radare2](https://github.com/radareorg/r2ghidra-dec)
 
 ## Scripts
 
@@ -240,6 +247,8 @@ More info [here](http://rada.re/).
 - [r2scapy - a radare2 plugin that decodes packets with Scapy](https://github.com/guedou/r2scapy) - by @guedou
 - [Deobfuscation of API calls in Bitpaymer (v2)](https://github.com/mauronz/malware_analysis/blob/master/deobf_bitpaymer_cutter.py)
 - [Prints agx (cross reference graph) with 2 caller levels](https://github.com/apasamar/radare_stuff/blob/master/agx_depth.py)
+- [radare2 script to autoname functions by taking it from the assert calls](https://gist.github.com/radare/04612d3804fa72c0cc832d06208cadaf)
+- [r2 plugin to read/write memory using the checkm8 exploit](https://github.com/radareorg/radare2-extras/tree/master/checkm8)
 
 ## Contributing
 
