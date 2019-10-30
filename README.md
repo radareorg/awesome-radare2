@@ -71,6 +71,7 @@ More info [here](http://rada.re/).
 
 ### Conferences
 
+- [HITB2019AMS - Overcoming Fear: Reversing with radare2](https://www.youtube.com/watch?v=317dNavABKo) - by @arnaugamez
 - [r2con 2019 - videos](https://www.youtube.com/watch?v=yTXNTRV3KbQ&list=PLjIhlLNy_Y9OVAEI5KYs_4jSStmTy-24l), [r2con 2019 - materials](https://github.com/radareorg/r2con2019)
 - [r2con 2018](https://www.youtube.com/watch?v=hzz0qTIynPI&list=PLjIhlLNy_Y9Po69BDCTEnrKvwLneSkG26)
 - [r2con 2017](https://www.youtube.com/watch?v=URyd4bcV-Ik&list=PLjIhlLNy_Y9Oe-nfcPEpaki0_En5dhQ5S)
@@ -98,7 +99,7 @@ More info [here](http://rada.re/).
 - [radare2: evolution](http://rada.re/get/lacon2k11.pdf)
 - [radare2: from forensics to bindiffing ](http://radare.org/get/rooted2011.pdf)
 - [ESIL, the Universal IL for radare2 (ZeroNights)](https://www.slideshare.net/AntonKochkov/slidesen)
-- [Brief intro to RE using @radareorg](https://github.com/arnaugamez/NcNLabs-IntroREwithR2)
+- [Brief intro to RE using @radareorg](https://github.com/arnaugamez/talks/tree/master/2018/02_noconname-lab)
 
 ## Tutorials and Blogs
 
